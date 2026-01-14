@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Marco 👋
 
-<!--
-**marcofranceschini015/marcofranceschini015** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Italian 🇮🇹 **Backend Developer** based in Germany 🇩🇪.
+I work primarily with **Java** and **Python**, and I enjoy tackling complex engineering problems at both system and algorithmic level.
 
-Here are some ideas to get you started:
+My background also includes **research in vehicular networks**, where I applied **machine learning models** within **C++ simulation environments**, resulting in an **IEEE publication**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Technical Focus
+
+- Backend engineering and service-oriented architectures
+- Scalable and reliable systems
+- Applied machine learning
+- Research-driven problem solving
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Java, Python, C++
+- **Backend:** REST APIs, distributed systems
+- **Machine Learning:** applied ML models, simulation-based evaluation
+
+---
+
+## 🚀 Personal Projects
+
+This section showcases personal projects and experiments that reflect my technical interests and engineering mindset.
+
+- Project 1 – _to be added_
+- Project 2 – _to be added_
+- Project 3 – _to be added_
+
+---
+
+## 📫 Contact
+
+- LinkedIn: _to be added_
+
