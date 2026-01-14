@@ -13,8 +13,8 @@ I also enjoy working on side projects and research, including **applied machine 
 
 This section showcases personal projects and experiments that reflect my technical interests and engineering mindset.
 
-- [GDGBariBackend](https://github.com/gdgbari/2025-devfest-bari-be) Python FastAPI backend created and mantained in collaboration with [BariGDG group](https://github.com/gdgbari) for the Google Developer Fest. 
-- Project 2 – _to be added_
+- [GDGBariBackend](https://github.com/gdgbari/2025-devfest-bari-be): Python FastAPI backend created and mantained in collaboration with [BariGDG group](https://github.com/gdgbari) for the Google Developer Fest. 🚀
+- [Sphincs+Dart](https://github.com/marcofranceschini015/SPHINCSplus-Dart-bindings): Post quantum library binded to be used in Dart 🔐
 - Project 3 – _to be added_
 
 ---
