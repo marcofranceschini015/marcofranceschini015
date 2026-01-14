@@ -36,5 +36,5 @@ This section showcases personal projects and experiments that reflect my technic
 
 ## 📫 Contact
 
-- LinkedIn: _to be added_
+- [LinkedIn](www.linkedin.com/in/marco-franceschini-6034792b6)
 
