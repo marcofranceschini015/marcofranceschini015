@@ -35,6 +35,6 @@ This section showcases personal projects and experiments that reflect my technic
 ---
 
 ## 📫 Contact
-
-- [LinkedIn](www.linkedin.com/in/marco-franceschini-6034792b6)
+-  🔗 [LinkedIn](www.linkedin.com/in/marco-franceschini-6034792b6)
+-  📄 [IEEE Publication](https://ieeexplore.ieee.org/document/10926031)
 
