@@ -1,28 +1,12 @@
 # Hi, I'm Marco 👋
 
 Italian 🇮🇹 **Backend Developer** based in Germany 🇩🇪.
-I work primarily with **Java** and **Python**, and I enjoy tackling complex engineering problems at both system and algorithmic level.
 
-My background also includes **research in vehicular networks**, where I applied **machine learning models** within **C++ simulation environments**, resulting in an **IEEE publication**.
-
----
-
-## 🧠 Technical Focus
-
-- Backend engineering and service-oriented architectures
-- Scalable and reliable systems
-- Applied machine learning
-- Research-driven problem solving
+I work mainly on **backend services** using Java and Python, with a strong interest in system design, architectural trade-offs, and operational quality.
+I also enjoy working on side projects and research, including **applied machine learning**, **network security experiments**, and developer tooling.
 
 ---
 
-## 🛠️ Tech Stack
-
-- **Languages:** Java, Python, C++
-- **Backend:** REST APIs, distributed systems
-- **Machine Learning:** applied ML models, simulation-based evaluation
-
----
 
 ## 🚀 Personal Projects
 
