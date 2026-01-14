@@ -2,8 +2,9 @@
 
 Italian 🇮🇹 **Backend Developer** based in Germany 🇩🇪.
 
-I work mainly on **backend services** using Java and Python, with a strong interest in system design, architectural trade-offs, and operational quality.
-I also enjoy working on side projects and research, including **applied machine learning**, **network security experiments**, and developer tooling.
+I work mainly on **backend services** using Java and Python, with a strong interest in system design. I build small developer tools to make my work easier.
+I also enjoy working on side projects and research, including **applied machine learning** and **network security experiments**.
+
 
 ---
 
