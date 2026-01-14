@@ -13,7 +13,7 @@ I also enjoy working on side projects and research, including **applied machine 
 
 This section showcases personal projects and experiments that reflect my technical interests and engineering mindset.
 
-- Project 1 – _to be added_
+- [GDGBariBackend](https://github.com/gdgbari/2025-devfest-bari-be) Python FastAPI backend created and mantained in collaboration with [BariGDG group](https://github.com/gdgbari) for the Google Developer Fest. 
 - Project 2 – _to be added_
 - Project 3 – _to be added_
 
