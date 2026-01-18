@@ -13,10 +13,19 @@ I also enjoy working on side projects and research, including **applied machine 
 
 This section showcases personal projects and experiments that reflect my technical interests and engineering mindset.
 
+### Backend
+
 - [GDGBariBackend](https://github.com/gdgbari/2025-devfest-bari-be): Python FastAPI backend created in collaboration with [BariGDG group](https://github.com/gdgbari) for the Google [DevFest](https://developers.google.com/community/devfest?hl=it). 🎉
-- [Sphincs+Dart](https://github.com/marcofranceschini015/SPHINCSplus-Dart-bindings): Post quantum library binded to be used in Dart 🔐
-- [EndpointDeprecationAuditor](https://github.com/marcofranceschini015/endpoint-deprecation-auditor): CLI tool to assess whether an API endpoint can be safely deprecated by correlating codebase usage and runtime log occurrence analysis. 🔍
+
+### Research
 - [Plexe](https://github.com/marcofranceschini015/plexe): Research fork of [Plexe Open Source](https://plexe.car2x.org) tool introducing AI-based misbehavior detection in vehicular network simulations. 🚗
+
+
+### Tools
+- [EndpointDeprecationAuditor](https://github.com/marcofranceschini015/endpoint-deprecation-auditor): CLI tool to assess whether an API endpoint can be safely deprecated by correlating codebase usage and runtime log occurrence analysis. 🔍
+
+### Network Security
+- [Sphincs+Dart](https://github.com/marcofranceschini015/SPHINCSplus-Dart-bindings): Post quantum library binded to be used in Dart 🔐
 
 ---
 
