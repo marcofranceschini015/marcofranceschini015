@@ -21,9 +21,9 @@ This section showcases personal projects and experiments that reflect my technic
 ---
 
 ## 🚗🤖 Research
--  📄 [IEEE Publication](https://ieeexplore.ieee.org/document/10926031)
+- [IEEE Publication](https://ieeexplore.ieee.org/document/10926031) 📄
 - [Plexe](https://github.com/marcofranceschini015/plexe): Research fork of [Plexe Open Source](https://plexe.car2x.org) introducing AI-based misbehavior detection in vehicular network simulations. 🚗
-- [MisbehaviorDetection](https://github.com/marcofranceschini015/misbehavior-detection-system): Meta-repository to explain all the architecture decisions of the presented paper
+- [MisbehaviorDetection](https://github.com/marcofranceschini015/misbehavior-detection-system): Meta-repository to explain all the architecture decisions of the presented paper 🧠
 
 
 
