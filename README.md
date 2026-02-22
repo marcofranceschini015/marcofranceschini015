@@ -14,7 +14,7 @@ I also enjoy working on side projects for passion and research, including **appl
 This section showcases personal projects and experiments that reflect my technical interests and engineering mindset.
 
 
-- [GDGBariBackend](https://github.com/gdgbari/2025-devfest-bari-be): Python FastAPI backend created in collaboration with [BariGDG group](https://github.com/gdgbari) for the Google [DevFest](https://developers.google.com/community/devfest?hl=it). 🎉
+- [GDGBariBackend](https://github.com/gdgbari/2025-devfest-bari-be): Python FastAPI backend created in collaboration with [BariGDG group](https://github.com/gdgbari) for the Google [DevFest](https://developers.google.com/community/devfest?hl=it). 🎉 [Refactor in progress ...]
 - [EndpointDeprecationAuditor](https://github.com/marcofranceschini015/endpoint-deprecation-auditor): CLI tool to assess whether an API endpoint can be safely deprecated by correlating codebase usage and runtime log occurrence analysis. 🔍
 - [Sphincs+Dart](https://github.com/marcofranceschini015/SPHINCSplus-Dart-bindings): Post quantum library binded to be used in Dart 🔐
 
