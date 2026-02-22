@@ -3,7 +3,7 @@
 Italian 🇮🇹 **Backend Developer** based in Germany 🇩🇪.
 
 I work mainly on **backend services** using Java and Python, with a strong interest in system design and performances. I build small developer tools to make my work easier.
-I also enjoy working on side projects for passion and research, including **applied machine learning** and **network security experiments**.
+I enjoy working on side projects, research, including **applied machine learning**, and small music projects.
 
 
 ---
@@ -17,6 +17,7 @@ This section showcases personal projects and experiments that reflect my technic
 - [GDGBariBackend](https://github.com/gdgbari/2025-devfest-bari-be): Python FastAPI backend created in collaboration with [BariGDG group](https://github.com/gdgbari) for the Google [DevFest](https://developers.google.com/community/devfest?hl=it). 🎉 [Refactor in progress ...]
 - [EndpointDeprecationAuditor](https://github.com/marcofranceschini015/endpoint-deprecation-auditor): CLI tool to assess whether an API endpoint can be safely deprecated by correlating codebase usage and runtime log occurrence analysis. 🔍
 - [Sphincs+Dart](https://github.com/marcofranceschini015/SPHINCSplus-Dart-bindings): Post quantum library binded to be used in Dart 🔐
+- [VolumeBoost](https://github.com/marcofranceschini015/volume-boost): A simple volume boost Vst3 plugin 📢
 
 ---
 
