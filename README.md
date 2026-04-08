@@ -4,7 +4,7 @@ Italian 🇮🇹 **Backend Developer** based in Germany 🇩🇪.
 
 I work mainly on **backend services** using Java and Python, with a strong interest in system design and performances. I build small developer tools to make my work easier.
 I enjoy working on side projects, including **applied machine learning**, and small music projects.
-I have 2 research publications about AI systems on [IEEE WONS 2025](https://2025.wons-conference.org) and [Computer Communications journal](https://www.sciencedirect.com/journal/computer-communications)
+I have 2 research publications about AI systems on [IEEE WONS 2025](https://2025.wons-conference.org) and [Computer Communications Journal](https://www.sciencedirect.com/journal/computer-communications).
 
 ---
 
