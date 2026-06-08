@@ -28,6 +28,13 @@ This section showcases personal projects and experiments that reflect my technic
 - [MisbehaviorDetection](https://github.com/marcofranceschini015/misbehavior-detection-system): Meta-repository to explain all the architecture decisions of the presented paper 🧠
 
 
+---
+
+## 🏆 Hackathons
+
+- **EUDI Wallet Germany Hackathon**: Developed a proof-of-concept application integrating the EUDI Wallet ecosystem with an external identity provider. Built both the [frontend](https://github.com/marcofranceschini015/identity-eudi-frontend) (**TypeScript**) and [backend](https://github.com/marcofranceschini015/identity-eudi-backend) (**Kotlin**), with a fully containerized local setup using Docker. The project demonstrates end-to-end wallet integration flows and interoperability with external providers. 🪪🚀
+
+---
 
 ## 📫 Contact
 -  🔗 [LinkedIn](https://www.linkedin.com/in/marco-franceschini-6034792b6)
