@@ -2,9 +2,9 @@
 
 Italian 🇮🇹 **Backend Software Engineer** at [CHECK24](https://www.check24.de) in Munich 🇩🇪.
 
-I work mainly on **Java microservices** for anti-fraud and payment systems, with a strong focus on distributed systems, DDD, and event-driven architectures. I enjoy building small **developer tools** to make my (and others') work easier.
+I work mainly on **Java microservices** with a strong focus on distributed systems, DDD, and event-driven architectures. I enjoy building small **developer tools** to make my (and others') work easier.
 
-On the research side, I published 2 papers on **Neural Networks applied to real-world systems** — specifically AI-based misbehavior detection in vehicular platooning networks — at IEEE WONS 2025 and on Elsevier Computer Communications Journal.
+On the research side, I published 2 papers on **Neural Networks applied to real-world systems**, specifically AI-based misbehavior detection in vehicular platooning networks — at IEEE WONS 2025 and on Elsevier Computer Communications Journal.
 
 Outside work, I explore the intersection of **AI and music production**, building tools for mixing and audio processing. I also actively study **agentic AI workflows**, LLM security, and prompt optimization — and I'm a heavy user of AI-augmented dev tools like Cursor.
 
@@ -62,13 +62,6 @@ Focused on **Neural Networks and AI applied to real-world systems** — specific
 - Studying **LLM security** — how AI-powered tools can be broken, manipulated, or hardened
 - Prompt optimization, token consumption analysis, and multi-model benchmarking
 - Daily driver of **Cursor** and other AI-augmented dev tools
-
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcofranceschini015&show_icons=true&theme=dark&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcofranceschini015&layout=compact&theme=dark&hide_border=true)
 
 ---
 
