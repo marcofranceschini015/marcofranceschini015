@@ -68,4 +68,4 @@ Focused on **Neural Networks and AI applied to real-world systems** — specific
 ## 📫 Contact
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/marco-franceschini-6034792b6)
-- 📧 [marcofr001@gmail.com](mailto:marcofr001@gmail.com)
+- 📧 [marco.franceschini.ing@gmail.com](mailto:marco.franceschini.ing@gmail.com)
