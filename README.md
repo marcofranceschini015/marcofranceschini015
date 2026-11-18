@@ -33,6 +33,7 @@ Outside work, I explore the intersection of **AI and music production**, buildin
 Personal experiments and tools — from backend utilities to audio tech.
 
 - [EndpointDeprecationAuditor](https://github.com/marcofranceschini015/endpoint-deprecation-auditor): CLI tool to assess whether an API endpoint can be safely deprecated by correlating codebase usage and runtime log occurrence analysis. 🔍
+- [LionVoice](https://github.com/marcofranceschini015/vst-lion-voice/tree/master): VST3 plugin for a full voice mix. 🎵
 - [VolumeBoost](https://github.com/marcofranceschini015/volume-boost): VST3 plugin for volume boost — exploring audio DSP and music production tooling. 📢
 - [Sphincs+Dart](https://github.com/marcofranceschini015/SPHINCSplus-Dart-bindings): Post-quantum cryptography library bound for use in Dart. 🔐
 - [GDGBariBackend](https://github.com/gdgbari/2025-devfest-bari-be): FastAPI backend built in collaboration with [GDG Bari](https://github.com/gdgbari) for Google DevFest. 🎉
